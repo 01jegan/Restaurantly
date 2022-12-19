@@ -1,0 +1,361 @@
+
+.container{
+	width: 1170px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: -15px;
+	margin-left: -15px;
+	
+}
+.row>*{
+	width: 100%;
+	padding: 0 15px;
+}
+
+ /* ##############    comment      ##############*/
+.justify-content-start{
+ 	justify-content: flex-start !important;
+ }
+.justify-content-end{
+	justify-content:flex-end !important;
+}
+.justify-content-center{
+	justify-content:center !important;
+}
+.justify-content-evenly{
+	justify-content:flex-evenly !important;
+}
+.justify-content-between{
+	justify-content:space-between !important;
+}
+.justify-content-around{
+	justify-content:space-around !important;
+}
+.align-items-start{
+	align-items:flex-start !important;
+}
+.align-items-end{
+	align-items:flex-end !important;
+}
+.align-items-center{
+	align-items:center !important;
+}
+.align-items-baseline{
+	align-items:baseline !important;
+}
+
+
+
+
+
+.header-info {
+	background-color:gray;
+	height:50px;
+	width:100%;
+}
+
+.mail-phone{
+	background-color:pink;
+	height:20px;
+	width:30%;
+	margin-top:10px;
+}
+.info-button{
+	background-color:pink;
+	height:20px;
+	width:20%;
+	margin-top:10px;
+}
+/* ##############    comment      ##############*/
+.navinfo {
+	background-color:pink;
+	height:50px;
+}
+.RESTAURANTLY{
+	background-color:gray;
+	width:10%;
+	height:20px;
+	margin-top:10px;
+}
+	
+.navbox {
+	background-color:gray;
+	width:55%;
+	height:20px;
+	margin-top:10px;
+	}
+.nav-btn{
+	background-color:gray;
+	width:25%;
+	height:20px;
+	margin-top:10px;
+}
+.box{
+	background-color :gray;
+	padding:50px 0;
+	height:500px
+}
+.box-content{
+	background-color:pink;
+	height:100px;
+	width:50%;
+	margin:80px 0;
+}
+.btn{
+	height:50px;
+	width:50px;
+	border-radius:50%;
+	background-color:pink;
+	margin:200px 800px;
+}
+.Voluptatem{
+	background-color :pink;
+	padding:50px 0;
+}
+.Voluptatem-content{
+	background-color:gray;
+	height :500px;
+	width:45%;
+}
+.Voluptatem-img{
+	background-color:gray;
+	height :500px;
+	width:45%;
+	margin:0px 30px;
+}
+.why-us{
+	background-color:gray;
+	padding:50px 0px;
+}
+.why-choose{
+	background-color:pink;
+	height:50px;
+	width:100%;
+	margin:20px 0px;
+}
+.Lorem-Ipsum{
+	background-color:pink;
+	height:200px;
+	width:25%;
+	margin:0px 30px;
+}
+.Repellat-Nihil{
+	background-color:pink;
+	height:200px;
+	width:25%;
+	margin:0px 30px;
+}
+.Ad-ad{
+	background-color:pink;
+	height:200px;
+	width:25%;
+	margin:0px 30px;
+	
+}
+.salad{
+	background-color:pink;
+	padding:50px 0px;
+	margin:0px 0px;
+}
+.menu{
+	background-color:gray;
+	height:50px;
+	width:50%;
+	margin:10px 0px;
+}
+.all{
+	background-color:gray;
+	height:30px;
+	width:60%;
+	margin:20px 225px;	
+}
+.cake{
+	background-color:gray;
+	height:60px;
+	width:45%;
+	margin:10px 10px;	
+}
+
+.check{
+		background-color:gray;
+	padding:50px 0px;
+	margin:0px 0px;
+}
+.check-our{
+	width:30%;
+	height:100px;
+	background-color:pink;
+	margin:10px 10px;
+}
+.modi{
+	width:20%;
+	height:400px;
+	background-color:pink;
+	margin:10px 5px;
+}
+.qui{
+	width:40%;
+	height:400px;
+	background-color:pink;
+	margin:10px 5px;
+}
+.circle{
+	width:30%;
+	height:400px;
+	background-color:pink;
+	margin:10px 5px;
+}
+.EVENTS{
+	background-color :pink;
+	padding:50px 0;
+}
+.EVENTS-content{
+	background-color:gray;
+	height :500px;
+	width:45%;
+}
+.EVENTS-img{
+	background-color:gray;
+	height :500px;
+	width:45%;
+	margin:0px 30px;
+}
+.Organize{
+	width:100%;
+	height:50px;
+	background-color:gray;
+	margin:20px 0px;
+}
+.book {
+	background-color:gray;
+	
+}
+.RESERVATION{
+	background-color:pink;
+	height:50px;
+	width:30%;
+	margin:10px 10px;
+}
+.book-box {
+	background-color:pink;
+	height:400px;
+	margin:10px 10px;
+}
+.book-btn {
+	background-color:pink;
+	height:50px;
+	width:20%;
+	margin:10px 470px;
+	
+}
+.What {
+	background-color:pink;
+	
+}
+.what-they{
+	background-color:gray;
+	height:50px;
+	width:30%;
+	margin:10px 10px;
+}
+.saul {
+	background-color:gray;
+	height:200px;
+	width:25%;
+	margin:10px 35px;
+}
+.GALLERY{
+	background-color:gray;
+}
+.some{
+	background-color:pink;
+	height:50px;
+	width:30%;
+	margin:10px 10px;
+}
+.GALLERY1{
+	background-color:pink;
+	height:150px;
+	width:22%;
+	margin:3px 3px;
+}
+.CHEFS{
+	background-color:pink;
+	padding:50px 0;
+}
+.Proffesional{
+	background-color:gray;
+	height:50px;
+	width:30%;
+	margin:10px 10px;
+}
+.our-chef{
+	background-color:gray;
+	height:400px;
+	width:25%;
+	margin:10px 35px;
+
+}
+
+.Contact{
+	background-color:gray;
+	padding:50px 0;
+}
+.Contact-us{
+	background-color:pink;
+	height:50px;
+	width:30%;
+	margin:10px 10px;
+}
+.map{
+	background-color:pink;
+	height:350px;
+	width:100%;
+	margin:0px 10px;
+}
+
+.Location{
+	background-color:pink;
+	padding:50px 0;
+}
+.Email{
+	background-color:gray;
+	height:350px;
+	width:30%;
+	margin:10px 10px;
+}
+.name{
+	background-color:gray;
+	height:350px;
+	width:60%;
+	margin:10px 10px;
+}
+.fooder{
+	background-color:gray;
+	padding:20px 0;
+}
+.Useful{
+	background-color:pink;
+	height:350px;
+	width:20%;
+	margin:10px 8px;
+}
+.Our-Newsletter{
+	background-color:pink;
+	height:350px;
+	width:25%;
+	margin:10px 5px;
+}	
+.fooder-content{
+	background-color:pink;
+	height:50px;
+	width:100%;
+	margin:10px 5px;
+}
+
+	
+	
